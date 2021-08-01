@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ed-cards-react/static/css/main.21255fef.chunk.css",
+    "main.js": "/ed-cards-react/static/js/main.d8125997.chunk.js",
+    "main.js.map": "/ed-cards-react/static/js/main.d8125997.chunk.js.map",
+    "runtime-main.js": "/ed-cards-react/static/js/runtime-main.c2aaf1b0.js",
+    "runtime-main.js.map": "/ed-cards-react/static/js/runtime-main.c2aaf1b0.js.map",
+    "static/js/2.ea9a2542.chunk.js": "/ed-cards-react/static/js/2.ea9a2542.chunk.js",
+    "static/js/2.ea9a2542.chunk.js.map": "/ed-cards-react/static/js/2.ea9a2542.chunk.js.map",
+    "static/js/3.43bf0e09.chunk.js": "/ed-cards-react/static/js/3.43bf0e09.chunk.js",
+    "static/js/3.43bf0e09.chunk.js.map": "/ed-cards-react/static/js/3.43bf0e09.chunk.js.map",
+    "index.html": "/ed-cards-react/index.html",
+    "static/css/main.21255fef.chunk.css.map": "/ed-cards-react/static/css/main.21255fef.chunk.css.map",
+    "static/js/2.ea9a2542.chunk.js.LICENSE.txt": "/ed-cards-react/static/js/2.ea9a2542.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2aaf1b0.js",
+    "static/js/2.ea9a2542.chunk.js",
+    "static/css/main.21255fef.chunk.css",
+    "static/js/main.d8125997.chunk.js"
+  ]
+}
